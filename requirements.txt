@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-magic
+python-docx
+reportlab
+pypdf2
+aiofiles
+python-multipart
